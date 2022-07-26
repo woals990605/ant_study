@@ -1,10 +1,11 @@
 import java.util.Scanner;
 
+// 별이 아래로 늘어남.
 public class Row{
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     // 행의 개수를 입력하면 삼각형을 출력하기
-    System.out.println("행의 개수를 입력하세요:");
+    System.out.print("행의 개수를 입력하세요:");
     int row_num = sc.nextInt();
 
     // 행의 개수

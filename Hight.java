@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// 별이 아래로 줄어듬.
 public class Hight {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
